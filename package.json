@@ -1,0 +1,21 @@
+{
+  "name": "server-js-express",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/poly-production/server-js-express.git",
+  "author": "Tommy Tran <tranttommy95@gmail.com>",
+  "license": "ISC",
+  "engines": {
+    "node": "^12.16.1",
+    "yarn": "^1.22.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
